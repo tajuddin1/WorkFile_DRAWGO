@@ -50,6 +50,12 @@ p{
     .container{
         max-width: 95%;
     }
+    .hero-text h1 {
+        font-size: 2rem;
+    }
+    .feature-text .title {
+        font-size: 2rem;
+    }
 }
 @media screen and (max-width:390px) {
     .hero-section {
@@ -57,8 +63,5 @@ p{
     }
     .hero-text h1 {
         font-size: 1.8rem;
-    }
-    .feature-text .title {
-        font-size: 2rem;
     }
 }
